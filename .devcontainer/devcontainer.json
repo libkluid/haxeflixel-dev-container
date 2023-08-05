@@ -1,0 +1,7 @@
+{
+	"name": "HaxeFlixel",
+	"build": {
+		"dockerfile": "Haxe.Dockerfile",
+		"args": {}
+	}
+}
